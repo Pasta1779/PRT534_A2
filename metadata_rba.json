@@ -1,0 +1,9 @@
+{
+  "source": "Reserve Bank of Australia",
+  "series": "Cash Rate Target",
+  "url": "https://www.rba.gov.au/statistics/cash-rate/",
+  "institution": "RBA (heterogeneous \u2014 different from ABS SLCI source)",
+  "date_range": "1990-01-23 to 2026-03-18",
+  "n_decisions": 398,
+  "note": "Dates in the source xlsx are stored as Excel serial integers. Converted using Excel epoch 1899-12-30. Forward-filled to quarterly period-end to align with ABS SLCI cadence."
+}
